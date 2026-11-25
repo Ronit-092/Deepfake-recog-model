@@ -1,0 +1,7 @@
+deepfake/
+models/
+data/raw/
+data/frames/
+data/faces/
+__pycache__/
+.ipynb_checkpoints/
